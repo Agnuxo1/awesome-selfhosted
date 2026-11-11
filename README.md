@@ -12,6 +12,10 @@ See [Contributing](#contributing).
 
 --------------------
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/awesome-selfhosted/awesome-selfhosted">upstream project</a>’s catalogue of applications that can run on user-controlled servers. Its categories help teams reuse existing services and compare self-hosted alternatives before building custom infrastructure. The practical value is informed deployment choice and software reuse; lower operating cost or environmental impact depends on utilisation, maintenance and the hardware actually used.</sub>
+<!-- impact-note:end -->
+
 ## Table of contents
 
 - [Software](#software)
